@@ -1,5 +1,5 @@
 # G-CYPWare-1.0
-This repository contains a user friendly web-tool (cypwarecode.html) to be used with CYPWare-1.0 program for calculating CYP450 ET parameters
+This repository contains a user friendly web-tool (cypwarecode.html) to be used with G-CYPWare-1.0 program for calculating CYP450 ET parameters
 **-- CYPWare 1.0 script and HTML Tool --**
 
 Please cite the use of CYPWare 1.0 and the HTML Tools as follows:
