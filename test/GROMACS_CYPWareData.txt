@@ -1,6 +1,6 @@
 ligand=NPG
 protein=1bvy-af
-dirpath=NPG-cypware
+dirpath=ACD_out
 oxddir=NPG-oxd
 reddir=NPG-red
 lignad_multiplicity=1
