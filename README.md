@@ -3,6 +3,9 @@ This repository contains a user friendly web-tool (cypwarecode.html) to be used 
 **-- CYPWare 1.0 script and HTML Tool --**
 
 Please cite the use of CYPWare 1.0 and the HTML Tools as follows:
+CYPWare-1.0 used to calculate the to calculate Marcus ET parameters for Cytochrome P450 BM3 reactions using the AMBER SOFTWARE. Those who are familiar with amber and 
+having licence for the amber can use the CYPWare 1.0. here is the liink.
+https://github.com/Dixit-s-lab/CYPWare-1.0
 Dixit, V. A.; USN Murty, Bajaj, P.; Blumberger, J.; and Sam P. de Visser. Mechanisms of Electron Transfer Rate Modulations in Cytochrome P450 BM3. J. Phys. Chem. B. 2022 126 (47), 9737-9747. DOI: 10.1021/acs.jpcb.2c03967
 https://pubs.acs.org/doi/10.1021/acs.jpcb.2c03967
 
