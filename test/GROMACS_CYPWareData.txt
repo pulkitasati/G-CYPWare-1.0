@@ -1,0 +1,9 @@
+ligand=NPG
+protein=1bvy-af
+dirpath=NPG-cypware
+oxddir=NPG-oxd
+reddir=NPG-red
+lignad_multiplicity=1
+posenumber=1
+lignad_charge=0
+calculation_type=apo
