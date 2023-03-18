@@ -1,6 +1,6 @@
 # G-CYPWare-1.0
 This repository contains a user friendly web-tool (cypwarecode.html) to be used with G-CYPWare-1.0 program for calculating CYP450 ET parameters
-**-- CYPWare 1.0 script and HTML Tool --**
+**-- G-CYPWare 1.0 script and HTML Tool --**
 
 Please cite the use of CYPWare 1.0 and the HTML Tools as follows:
 CYPWare-1.0 used to calculate the to calculate Marcus ET parameters for Cytochrome P450 BM3 reactions using the AMBER SOFTWARE. Those who are familiar with amber and 
