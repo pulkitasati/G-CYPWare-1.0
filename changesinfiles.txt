@@ -1,0 +1,2 @@
+sacctmgr show user $USER -p | awk -F '|' '{print "User:",$2,"\nAccount:",$3}'| grep "User:"| tail -n 1
+change line no 1457 in files.sh according to the output of the above command.
