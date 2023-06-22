@@ -1,0 +1,6 @@
+download and convert ligand into pdbqt from adt 
+important note---- assign adt4 atom type from edit ----atom type--- menu
+put ligand pdbqt in current folder
+run command 
+./docking.sh paracetamol      (ligand name only)
+change ligand name and output directory name in the GROMACS_CYPWareData.txt file
