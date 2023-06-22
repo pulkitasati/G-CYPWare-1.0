@@ -15,7 +15,9 @@ source /home/software/ambermpi4py/amber22/amber.sh
 antechamber -i $ligand.pdb -fi pdb -o $ligand.mol2 -fo mol2 -c bcc -s 2 -nc $lignad_charge -pf yes 
 parmchk2 -i $ligand.mol2 -f mol2 -o $ligand.frcmod
 antechamber -i $ligand.mol2 -fi mol2 -o $ligand.ac -fo ac -pf yes
-antechamber -i $ligand.ac -fi ac -o $ligand-test.pdb -fo pdb  
+antechamber -i $ligand.ac -fi ac -o $ligand-test.pdb -fo pdb 
+rm $ligand.pdb
+cp $ligand-test.pdb $ligand.pdb
 }
 
 # 2 positional parametes 1 funtion name 2 file for appending funtion commands
